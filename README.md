@@ -27,6 +27,23 @@ Welcome to the **MERN E-Commerce Website**! This project is a feature-rich e-com
 - **Node.js**: JavaScript runtime environment for running the backend.
 - **Stripe**: Integrated payment gateway for processing transactions.
 - **JWT**: JSON Web Tokens for secure user sessions.
+## 📸 Images
+
+### 🏠 Home Page
+
+ ![Home Page](./Screenshot/home.png)
+
+
+
+
+### 🎭 Collections
+
+ ![Collection Details](./Screenshot/collection.png)
+
+
+### 🎟️ Payment
+
+ ![Payment](./Screenshot/payment.png)
 
 ## 🗂️ Folder Structure
 
@@ -71,7 +88,7 @@ npm install
 <summary><code>/admin/.env</code></summary>
 
 ```env
-VITE_BACKEND_URL = "http://localhost:4000"
+VITE_BACKEND_URL = "http://localhost:5000"
 ```
 
 </details>
@@ -102,7 +119,7 @@ ADMIN_PASSWORD = "admin@123" #For testing only
 <summary><code>/frontend/.env</code></summary>
 
 ```env
-VITE_BACKEND_URL = "http://localhost:4000"
+VITE_BACKEND_URL = "http://localhost:5000"
 ```
 
 </details>
@@ -141,8 +158,3 @@ cd frontend
 npm run dev
 ```
 
-Open [http://localhost:5174](http://localhost:5174) in your browser to view the admin dashboard.
-
-Open [http://localhost:400](http://localhost:400) in your browser to run the backend.
-
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the frontend project.
