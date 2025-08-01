@@ -68,11 +68,7 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [NPM](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
 
-```bash
-git clone https://github.com/MenathNDGD/MERN-Ecommerce.git
-```
 
 **Installation**
 
